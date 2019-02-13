@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PAB-20182-SI4006-M5-36-MUHAMMAD ARIQ NAUFAL</string>
+    <string name="action_settings">Settings</string>
+    <string name="froyo"><![CDATA[FroYo is premium self‑serve frozen yogurt]]></string>
+    <string name="droid_dessert">Droid Dessert</string>
+    <string name="donut"><![CDATA[Donuts are glazed and sprinkled with candy.]]></string>
+    <string name="ice_cream_sandwich"><![CDATA[Ice cream sandwiches have chocolate wafers  and vanilla filling]]></string>
+    <string name="donut_order_message">You Ordered a donut.</string>
+    <string name="ics_order_message">You Ordered a Ice Cream Sandwich</string>
+    <string name="froyo_order_message">You Order a Froyo</string>
+</resources>
